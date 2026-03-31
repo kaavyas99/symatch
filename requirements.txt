@@ -1,0 +1,16 @@
+bposd==2.1
+dask==2026.1.2
+galois==0.4.10
+ldpc==2.3.4
+line_profiler==5.0.0
+matplotlib==3.10.1
+networkx==3.4.2
+numpy==2.2.3
+PyMatching==2.2.2
+pytest==8.3.5
+python-sat==1.8.dev30
+sinter==1.15.0
+stim==1.15.0
+stimcirq==1.15.0
+tesseract_decoder==0.1.1.dev20260312225102
+tqdm==4.67.1
